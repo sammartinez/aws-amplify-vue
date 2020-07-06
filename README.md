@@ -1,5 +1,7 @@
 # AWS Amplify Vue Starter
 
+**THIS SAMPLE HAS BEEN ARCHIVED IN FAVOR OF THIS [AMPLIFY JS VUE SAMPLE](https://github.com/aws-amplify/amplify-js-samples/tree/main/samples/vue/auth/authenticator)**
+
 A VueJs starter app integrated with [aws-amplify](https://github.com/aws/aws-amplify). **Please submit issues to the [aws-amplify](https://github.com/aws/aws-amplify/issues) repository**.
 
 <img src="docs/assets/img/aws-amplify-vue-sample.png" width="480px" />
